@@ -1,5 +1,4 @@
-# LICENSE
-## The MIT License
+# The MIT License
 
 Copyright (c) 2022 Florian Klampfer <mail@qwtel.com> (https://qwtel.com/)
 
